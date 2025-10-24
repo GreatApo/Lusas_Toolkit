@@ -17,6 +17,10 @@ Lusas Modeller v20.0
 
 Lusas Modeller v21.0, 21.1
 
+Lusas Modeller v22.0
+
+Lusas Modeller v23.0
+
 
 ### Documentation
 For more information about functionality see the [Lusas_Toolkit Wiki](https://github.com/BHoM/Lusas_Toolkit/wiki)
